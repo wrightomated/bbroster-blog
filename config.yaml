@@ -1,0 +1,15 @@
+baseURL: "https://bbroster.com/"
+languageCode: "en-us"
+title: "BBRoster News"
+theme: "paper-mod"
+
+params:
+  homeInfoParams:
+    Title: Hi there
+    Content: Here will be all the latest to do with https://bbroster.com
+
+  # socialIcons: # optional
+  #     - name: "<platform>"
+  #         url: "<link>"
+  #     - name: "<platform 2>"
+  #         url: "<link2>"
