@@ -1,6 +1,6 @@
 baseURL: "https://bbroster.com/"
 languageCode: "en-us"
-title: "BBRoster News"
+title: "BB Roster"
 theme: "paper-mod"
 
 params:
