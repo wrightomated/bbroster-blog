@@ -5,8 +5,8 @@ theme: "paper-mod"
 
 params:
   homeInfoParams:
-    Title: Hi there
-    Content: Here will be all the latest to do with https://bbroster.com
+    Title: Welcome Coach,
+    Content: Here you'll find the latest news and update notes for https://bbroster.com
 
   # socialIcons: # optional
   #     - name: "<platform>"
