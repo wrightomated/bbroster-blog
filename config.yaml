@@ -1,6 +1,6 @@
 baseURL: "https://blog.bbroster.com/"
 languageCode: "en-us"
-title: "BB Roster"
+title: "BB Roster Blog"
 theme: "paper-mod"
 
 params:
@@ -11,9 +11,13 @@ params:
 menu:
   main:
     - identifier: tags
-      name: Tags
+      name: tags
       url: /tags/
       weight: 20
+    - identifier: bbroster
+      name: bbroster.com
+      url: https://bbroster.com
+      weight: 30
 
   # socialIcons: # optional
   #     - name: "<platform>"
