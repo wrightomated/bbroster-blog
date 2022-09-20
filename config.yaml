@@ -1,4 +1,4 @@
-baseURL: "https://bbroster.com/"
+baseURL: "https://blog.bbroster.com/"
 languageCode: "en-us"
 title: "BB Roster"
 theme: "paper-mod"
@@ -6,7 +6,7 @@ theme: "paper-mod"
 params:
   homeInfoParams:
     Title: Welcome Coach,
-    Content: Here you'll find the latest news and update notes for https://bbroster.com
+    Content: Here you'll find the latest news on updates for https://bbroster.com
 
   # socialIcons: # optional
   #     - name: "<platform>"
