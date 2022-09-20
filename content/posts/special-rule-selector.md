@@ -3,11 +3,14 @@ title: "Special Rule Selector"
 date: 2022-09-21T07:13:30+10:00
 draft: false
 tags: ["Updates"]
+cover:
+  image: "/images/new-khorne-team.png"
+  caption: "Special rule selection in team creation"
+  alt: "Select Special Rule"
+  relative: false
 ---
 
 Fret no longer you can now officially\* collect Blood for the Blood God!
-
-![Select special rule](/images/new-khorne-team.png)
 
 One feature that has been lacking for a while is to be able to show your true devotion to your chosen god of Chaos!
 
