@@ -4,9 +4,16 @@ title: "BB Roster"
 theme: "paper-mod"
 
 params:
+  defaultTheme: auto
   homeInfoParams:
     Title: Welcome Coach,
     Content: Here you'll find the latest news on updates for https://bbroster.com
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
 
   # socialIcons: # optional
   #     - name: "<platform>"
