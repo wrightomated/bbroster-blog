@@ -1,6 +1,6 @@
 baseURL: "https://blog.bbroster.com/"
 languageCode: "en-us"
-title: "BB Roster Blog"
+title: "News and Updates for Blood Bowl Roster"
 theme: "paper-mod"
 
 params:
