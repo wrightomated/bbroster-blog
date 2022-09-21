@@ -1,13 +1,13 @@
 baseURL: "https://blog.bbroster.com/"
 languageCode: "en-us"
-title: "News and Updates for Blood Bowl Roster"
+title: "BB Roster Updates"
 theme: "paper-mod"
 
 params:
   defaultTheme: auto
   homeInfoParams:
     Title: Welcome Coach,
-    Content: Here you'll find the latest news on updates for https://bbroster.com
+    Content: Here you'll find the latest news and updates for https://bbroster.com
 menu:
   main:
     - identifier: tags
