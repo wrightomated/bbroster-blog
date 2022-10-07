@@ -9,6 +9,6 @@ draft: false
 
 100% a conversation that happened. Ridiculous if you think about it in modern day standards, because as of today any player that wears number 1 - 99 will have a place in your roster. Also you may order the numbers anyway you see fit.
 
-This was a suggestion so hopefully it give a bit more freedom in how you form your team.
+This was a common suggestion so hopefully it give a bit more freedom in how you form your team.
 
 If your numbers are 100 and above, sorry buddy, out of luck.
