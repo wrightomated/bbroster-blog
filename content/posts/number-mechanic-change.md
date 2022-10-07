@@ -2,6 +2,7 @@
 title: "Player number change, also Amazons in dungeons."
 date: 2022-10-08T06:12:19+11:00
 draft: false
+tags: ["Updates"]
 ---
 
 "I'm number 23 coach" mumbled the rookie lineman as he was tightening his boots.
