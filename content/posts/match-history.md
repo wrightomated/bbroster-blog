@@ -4,8 +4,8 @@ date: 2023-01-05T07:13:30+10:00
 draft: false
 tags: ["Updates"]
 cover:
-  image: "/images/match-history-header.png"
-  caption: "Mad Dog experiences a crushing defeat due to unhinged squirrel"
+  image: "/images/match_history_mini.jpg"
+  caption: "A game that will be recorded for eternity"
   alt: "Match history example picture"
   relative: false
 ---
