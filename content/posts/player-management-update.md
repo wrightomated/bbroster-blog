@@ -10,7 +10,7 @@ cover:
   relative: false
 ---
 
-> Remove a skill you say? Easy. Just delete your player and add back everything you had except the skill that you wanted to remove.
+> Remove a skill you say? Easy. Just delete your player, create a new one and add back everything you had except the skill that you wanted to remove.
 
 BBRoster \- pre 5th of May 2023
 
