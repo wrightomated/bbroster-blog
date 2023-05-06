@@ -10,7 +10,7 @@ cover:
   relative: false
 ---
 
-> Remove skill you say? Easy. Just delete your player and add back everything you had except the skill that you wanted to remove.
+> Remove a skill you say? Easy. Just delete your player and add back everything you had except the skill that you wanted to remove.
 
 BBRoster \- pre 5th of May 2023
 
@@ -21,4 +21,4 @@ You can now easily view all the advancements added, manage injuries, and even ch
 Also cloning. Cloning technology exists in BBRoster. Dolly them up using the button that looks like this:
 ![Duplicate Button](/images/duplicate.png)
 
-Thanks all, heres to many block rolls to come!
+Thanks all, may the Pows! keep rolling.
