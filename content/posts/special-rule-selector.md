@@ -20,4 +20,4 @@ If your current team is not affiliated to any chaotic persuasion you'll now be p
 
 This will be able to be changed at any time when the _Roster Summary_ is available.
 
-\*BBRoster is still unofficial
+\*BB Roster is still unofficial

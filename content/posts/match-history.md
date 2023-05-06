@@ -10,11 +10,11 @@ cover:
   relative: false
 ---
 
-One of the most requested features has now hit BBRoster. In league play you can now record recent matches. I've even created a small overview video of it.
+One of the most requested features has now hit BB Roster. In league play you can now record recent matches. I've even created a small overview video of it.
 
 {{< youtube dzpabwK1VYo >}}
 <br />
 
-It would be pertinent to point out that BBRoster has no aim to become a league manager. I like to think of it more as an extension to pen and paper. You can use BBRoster, Barry can use excel and Mad Dog Munchy can stick with his sharpie and post it notes.
+It would be pertinent to point out that BB Roster has no aim to become a league manager. I like to think of it more as an extension to pen and paper. You can use BB Roster, Barry can use excel and Mad Dog Munchy can stick with his sharpie and post it notes.
 
 Exhibition and dungeonbowl will be soon to follow. As well as editing past match histories.
