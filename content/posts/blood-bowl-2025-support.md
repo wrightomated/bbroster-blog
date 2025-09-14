@@ -17,7 +17,7 @@ I might be able to get some of the changes I have in progress after the rule cha
 
 Current WIP includes:
 
-- Tournament Support
+- Tournament Support Automation
   - Basic settings (budget, team size, format, etc)
   - Custom stars, inducements, and team rosters
   - Skill packs
