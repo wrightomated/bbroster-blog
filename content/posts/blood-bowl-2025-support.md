@@ -11,7 +11,7 @@ Yes! It might not be on day one, but before the year is out. I don't think it wi
 
 ## Existing Updates
 
-Updates have been pretty slow recently. My free time is spent on my newer status of fatherhood and the actual hobby. There are so many things I want to do with BBRoster but hard to find the time.
+Updates have been pretty slow recently. Most my free time is poured into my family and the non-digital hobby. There are so many things I want to do with BBRoster! The pesky conundrum of time stikes constantly.
 
 I might be able to get some of the changes I have in progress after the rule changes are out as well. So let me know if there are any interest in the following.
 
