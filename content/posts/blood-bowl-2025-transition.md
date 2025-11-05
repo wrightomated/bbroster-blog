@@ -1,5 +1,5 @@
 ---
-title: "Blood Bowl 2025: Transition Plan"
+title: "BB Roster 2025: Transition Plan"
 date: 2025-11-05T10:00:00+11:00
 draft: false
 tags: ["News", "Blood Bowl 2025"]
