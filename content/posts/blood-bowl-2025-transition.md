@@ -25,7 +25,3 @@ Once I'm satisfied with the stability and accuracy of the Blood Bowl 2025 implem
 - **bbroster.com** → **2020.bbroster.com** (2020 Blood Bowl ruleset preserved)
 
 The 2020.bbroster.com site will continue to function exactly as bbroster.com does today, preserving access to the current Blood Bowl ruleset for those who need it. This ensures that everyone can continue using their preferred version of the game without disruption.
-
-## Stay Tuned
-
-I'll keep you updated as development progresses. Thank you for your patience and continued support as we make this transition together!
