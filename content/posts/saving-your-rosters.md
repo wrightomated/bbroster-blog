@@ -5,9 +5,9 @@ draft: false
 tags: ["News", "Blood Bowl 2025"]
 ---
 
-## Your Rosters Are Safe
+## Preserving your Rosters
 
-With the upcoming transition to Blood Bowl 2025, I want to clarify what will happen to your existing rosters and how to ensure you don't lose any of your hard work.
+With the upcoming transition to Blood Bowl 2025, I want to clarify what will happen to your existing rosters and how to ensure you don't lose your teams' journeys.
 
 If you haven't already read about the Blood Bowl 2025 transition plan, please check out the [BB Roster 2025: Transition Plan](https://blog.bbroster.com/posts/blood-bowl-2025-transition/) post first. It outlines how the site will be changing and what to expect.
 
