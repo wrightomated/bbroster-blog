@@ -11,7 +11,7 @@ With Blood Bowl 2025 approaching, I wanted to share the transition plan for BB R
 
 ## Current State: Beta Testing
 
-In the meantime, **beta.bbroster.com** is now live and will serve as the testing ground for the Blood Bowl 2025 version. This is where I'll be implementing and refining the new rules, teams, and features. Along with the 2025 updates, there are also some behind-the-scenes improvements being made.
+In the meantime, [**beta.bbroster.com**](https://beta.bbroster.com) is now live and will serve as the testing ground for the Blood Bowl 2025 version. This is where I'll be implementing and refining the new rules, teams, and features. Along with the 2025 updates, there are also some behind-the-scenes improvements being made.
 
 If you're adventurous and want to try out the new version as it develops, feel free to visit the beta site. Just keep in mind it's a work in progress, and things may change as I continue to refine the implementation.
 
