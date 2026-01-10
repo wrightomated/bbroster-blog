@@ -1,6 +1,6 @@
 ---
 title: "Dark Mode Added"
-date: 2026-01-11T00:00:00+00:00
+date: 2026-01-10T12:00:00+00:00
 draft: false
 tags: ["Updates"]
 ---
