@@ -1,6 +1,6 @@
 ---
 title: "Player number change, also Amazons in dungeons."
-date: 2022-10-08T06:12:19+11:00
+date: 2022-10-08T05:12:19+10:00
 draft: false
 tags: ["Updates"]
 ---

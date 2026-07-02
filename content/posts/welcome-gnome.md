@@ -1,6 +1,6 @@
 ---
 title: "Welcome Gnome"
-date: 2024-04-07T07:13:42+11:00
+date: 2024-04-07T06:13:42+10:00
 draft: false
 tags: ["Updates"]
 ---

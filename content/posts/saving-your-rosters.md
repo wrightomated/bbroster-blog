@@ -1,6 +1,6 @@
 ---
 title: "Saving Your Rosters: What You Need to Know"
-date: 2025-11-07T10:00:00+11:00
+date: 2025-11-07T09:00:00+10:00
 draft: false
 tags: ["News", "Blood Bowl 2025"]
 ---

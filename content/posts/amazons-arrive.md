@@ -1,6 +1,6 @@
 ---
 title: "Amazons Shipped"
-date: 2022-10-02T07:13:42+11:00
+date: 2022-10-02T06:13:42+10:00
 draft: false
 tags: ["Updates"]
 ---

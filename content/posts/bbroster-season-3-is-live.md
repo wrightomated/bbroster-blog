@@ -1,6 +1,6 @@
 ---
 title: "BBRoster Season 3 is live"
-date: 2025-12-29T00:00:00+00:00
+date: 2025-12-29T10:00:00+10:00
 draft: false
 tags: ["News", "Blood Bowl 2025"]
 ---
